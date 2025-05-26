@@ -1,0 +1,5 @@
+-Compare the performance of the Turkish/Azerbaijani system with leading English-based models to highlight innovation.
+-Implement validation techniques to ensure the quality and reliability of annotated datasets. 
+-Explore additional biomedical use cases or datasets to expand the scope of the tool. 
+-Develop a plan for deploying the system in real-world biomedical research settings, including training and user support. 
+-Neural machine translation for Azerbaijani language should be improved."
